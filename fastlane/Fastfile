@@ -1,4 +1,5 @@
 default_platform(:ios)
+xcode_select '/Applications/Xcode.app'
 
 platform :ios do
   desc 'Export ipa'
